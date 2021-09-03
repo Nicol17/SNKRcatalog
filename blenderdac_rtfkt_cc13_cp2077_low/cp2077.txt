@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blenderdac RTFKT CC13 CP2077 LOW
+* source:	https://sketchfab.com/3d-models/blenderdac-rtfkt-cc13-cp2077-low-dc2869ff99b84b269f8e54b441fb0592
+* author:	blenderdac (https://sketchfab.com/blenderdac)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blenderdac RTFKT CC13 CP2077 LOW" (https://sketchfab.com/3d-models/blenderdac-rtfkt-cc13-cp2077-low-dc2869ff99b84b269f8e54b441fb0592) by blenderdac (https://sketchfab.com/blenderdac) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

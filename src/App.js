@@ -73,23 +73,23 @@ export default function App() {
       camera={{position: [0, 0, 120], fov: 70 }}>
         <Lights />
         <Suspense fallback={null}>
-          <HTMLContent 
-          domContent={domContent} 
-          modelPath={'/newBalance.gltf'}
-          scale={[50, 50, 50]} 
-          positionY={270}
-          bgColor={'#000000'}> 
-          {/* f15946 */}
-              <h1 className="title">NB Classic 974</h1>
-          </HTMLContent>
 
           <HTMLContent 
           domContent={domContent} 
           modelPath={'/nb997.gltf'} 
           scale={[0.2, 0.2, 0.2]} 
+          positionY={250}
+          bgColor={'#f15946'}> 
+              <h1 className="title extraTitle">NB997</h1>
+          </HTMLContent>
+
+          <HTMLContent 
+          domContent={domContent} 
+          modelPath={'/cp2077.gltf'} 
+          scale={[200, 200, 200]} 
           positionY={20} 
           bgColor={'#571ec1'}>
-              <h1 className="title">NB997</h1>
+              <h1 className="title extraTitle">CP2077 Concept</h1>
           </HTMLContent>
 
           <HTMLContent 
